@@ -1,1 +1,1 @@
-# Computer Vision - Canny-Edge-Detection
+# Image Processing - Canny-Edge-Detection
